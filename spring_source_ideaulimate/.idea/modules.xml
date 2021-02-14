@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/mn_simulation_spring/mn_simulation_spring.iml" filepath="$PROJECT_DIR$/spring-framework/mn_simulation_spring/mn_simulation_spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-framework/mn_simulation_spring/mn_spr_stuaop_ch02.iml" filepath="$PROJECT_DIR$/spring-framework/mn_simulation_spring/mn_spr_stuaop_ch02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring_source_ideaulimate.iml" filepath="$PROJECT_DIR$/.idea/spring_source_ideaulimate.iml" />
+    </modules>
+  </component>
+</project>
